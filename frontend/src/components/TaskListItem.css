@@ -1,0 +1,7 @@
+li.complete p{
+    text-decoration: line-through;
+}
+
+li.complete{
+    background: gray;
+}
